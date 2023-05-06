@@ -1,0 +1,21 @@
+.nav-wrapper {
+    background-color: #004861;
+  }
+  
+  .brand-text {
+    font-family: "Roboto", sans-serif;
+    font-size: 28px;
+    color: #fff;
+    margin-left: 10px;
+  }
+  
+  .login-text {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    color: #fff;
+  }
+  nav
+{
+    height: 70px;
+}
+  

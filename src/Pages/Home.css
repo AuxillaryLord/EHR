@@ -1,0 +1,27 @@
+.mainpage {
+  background-image: url('../components/img/Doctor.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: calc(100vh - 130px);
+}
+
+.mainpage h1 {
+  font-size: 5.35rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #004861;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px #fff;
+}
+
+.mainpage h2 {
+  font-size: 2.066rem;
+  font-weight: 400;
+  color: #333333;
+  margin-bottom: 40px;
+  text-shadow: 1px 1px #fff;
+}
+
+.content {
+  padding: 121px 0px 0px 705px;
+}

@@ -1,0 +1,22 @@
+.footer {
+    background-color: #004861;
+    color: #fff;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer-text {
+    margin: 0;
+  }
+  
+  .footer-bold-text {
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,38 @@
+.create-post-container123{
+    max-width: 650px;
+    margin: 40px auto;
+    padding: 20px;
+    text-align: center;
+    /* background-color:#6ecaee */
+
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.create-post-container{
+    max-width: 650px;
+    margin: 40px auto;
+    padding: 20px;
+    text-align: center;
+    /* background-color:#6ecaee */
+}
+.btn .btn1{
+    margin-left: 12px;
+}
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.932);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+  }
